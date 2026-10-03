@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+  <body style="background-color: #c9f2ff; font-family: Helvetica, Noto Sans, sans-serif">
+    <h1 style= "padding: 4px; margin: 4px  ">Procrastination OS</h1>
+    <h2>Introduction</h2>
+    <p>So you are reading this without working on your Math summative?</p>
+    <p>Well, why are you still here?</p>
+    <p>I thought you wanted to be successful.</p>
+    <p>Is a 5 successful?</p>
+    <p>I bet you not.</p>
+    <img src="./testest.jpg" />
+    <button type='button' onclick="alert('You can\'t do that!')">Exit Site</button>
+    <a href="https://namu.wiki/w/%ED%94%84%EB%A3%A8%ED%8B%B0%EA%B1%B0%20%EC%97%90%EC%96%B4%EB%A1%9C">Click Here for Whimsical</a>
+  </body>
+
+</html>
